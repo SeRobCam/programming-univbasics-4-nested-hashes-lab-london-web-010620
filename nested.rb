@@ -81,7 +81,7 @@ def adding_matz
           :languages => ["C"]
         }
      }
-  programmer_hash.unshift()
+  programmer_hash.unshift[0] = 
     
 end
 
